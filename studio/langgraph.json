@@ -5,7 +5,6 @@
   },
   "env": "./.env",
   "python_version": "3.11",
-  "dependencies": [
-    "./requirements.txt"
-  ]
+  "pip_requirements": "./requirements.txt"
+
 }
