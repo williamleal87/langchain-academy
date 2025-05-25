@@ -1,0 +1,12 @@
+langchaincd
+langchain-openai
+openai
+pandas==2.2.2
+python-dotenv==1.0.1
+langgraph
+langgraph-prebuilt
+langchain-core
+langchain-community
+pydantic
+requests
+
