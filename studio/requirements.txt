@@ -1,4 +1,4 @@
-langchaincd
+langchain
 langchain-openai
 openai
 pandas==2.2.2
